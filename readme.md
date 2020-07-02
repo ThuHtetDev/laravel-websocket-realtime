@@ -1,6 +1,6 @@
-## Laravel-websocket-realtime
-# Clone this project From github 
-# Do following steps
+# Laravel-websocket-realtime
+## Clone this project From github 
+## Do following steps
 * Composer Install
 * Generate php artisan key
 * copy .env file
@@ -14,4 +14,4 @@
 
 * php artisan websocket:serve
 
-# Thank you
+## Thank you
